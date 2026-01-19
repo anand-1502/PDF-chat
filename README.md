@@ -47,15 +47,15 @@ With an intuitive interface built using **Streamlit**, users can upload PDFs, pr
 ## 🖼️ Screenshots
 
 ### User Interface
-![User Interface](screenshots/homepage.png)
+![User Interface](screenshots/homepage1.png)
 
 ### File Upload
-![File Upload](screenshots/upload1.png)
-![File Upload](screenshots/upload2.png)
-![File Upload](screenshots/submit.png)
+![File Upload](screenshots/upload11.png)
+![File Upload](screenshots/upload21.png)
+![File Upload](screenshots/submi1t.png)
 
 ### Answer Display
-![Answer Display](screenshots/answers.png)
+![Answer Display](screenshots/answers1.png)
 
 ---
 
